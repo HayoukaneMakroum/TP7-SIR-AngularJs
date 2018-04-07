@@ -1,4 +1,4 @@
-﻿# tpangular
+﻿# TP7 Angular-Js
 TP7 de SIR, Le but de ce TP est de construire à partir de vos compétences en AngularJS une interface Web pour votre application développée en Java côté serveur.  <br />
 portant sur les technologies suivantes:
 Front-end:
