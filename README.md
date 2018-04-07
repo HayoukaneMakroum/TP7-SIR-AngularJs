@@ -1,5 +1,6 @@
 ﻿# tpangular
-TP7 de SIR, portant sur les technologies suivantes:Le but de ce TP est de construire à partir de vos compétences en AngularJS une interface Web pour votre application développée en Java côté serveur.  <br />
+TP7 de SIR, Le but de ce TP est de construire à partir de vos compétences en AngularJS une interface Web pour votre application développée en Java côté serveur.  <br />
+portant sur les technologies suivantes:
 Front-end:
 - Yeoman et son générateur de projet angularjs
 - AngularJS
@@ -25,7 +26,7 @@ Back-end:
 
 ### Partie serveur (back-end)
 - Serveur Tomcat 7 :
-  > ``` cd path-to-workspace/tpangular/jpa``` <br />
+  > ``` Tp2_4 Sir run ``` <br />
   > ``` mvn tomcat7:run```
 
 ### Partie Client (front-end)
